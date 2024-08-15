@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    background-color: yellow;
+    
+}
+
+label{
+    font-weight: bolder;
+}
+
+button{
+    background-color: rgb(101, 101, 235);
+    color: white;
+    border-radius: 2px;
+    padding: 3px;
+}
+
+input{
+    text-align: center;
+}
+
+
+#images img{
+    margin: 5px;
+    max-width: 50px;
+    max-height: 50px;
+}
+
